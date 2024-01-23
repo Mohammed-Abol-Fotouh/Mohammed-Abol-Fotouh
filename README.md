@@ -27,6 +27,7 @@
 
 ##### 💪 Programming Languages
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-FFD43B?style=for-the-badge&logo=javascript&logoColor=yellow"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 
 
 ##### 💪 Front-End Development
@@ -58,7 +59,7 @@
 
 <p align="center">
 <a href="[https://www.linkedin.com/in/mahmoud-dwidar-2000/](https://www.linkedin.com/in/mohammed-abol-fotouh/)" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="mailto:moabolfotouh3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+<a href="mailto:moabolfotouh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
       
 
